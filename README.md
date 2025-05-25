@@ -1,7 +1,5 @@
 # Hybrid Approach to Automated Facial Pimple Removal
 
-![Open In Colab](https://colab.research.google.com/drive/12OPdjwGulsCcBHLo3dCcinmn9tyLUxN2?usp=sharing)]
-
 ## 📌 Overview
 
 This project presents a **hybrid pipeline** for automated pimple removal in facial images by combining classical image processing with deep learning-based inpainting techniques. It is designed to work without the need for any external dataset, making it data-efficient and highly adaptable.
