@@ -1,6 +1,6 @@
 # Hybrid Approach to Automated Facial Pimple Removal
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12OPdjwGulsCcBHLo3dCcinmn9tyLUxN2?usp=sharing)
+![Open In Colab](https://colab.research.google.com/drive/12OPdjwGulsCcBHLo3dCcinmn9tyLUxN2?usp=sharing)]
 
 ## 📌 Overview
 
